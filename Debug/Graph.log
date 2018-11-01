@@ -1,10 +1,3 @@
 ﻿  MyForm.cpp
-c:\users\владик\downloads\chm\чм\graph\myform.h(403): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-c:\users\владик\downloads\chm\чм\graph\myform.h(467): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-c:\users\владик\downloads\chm\чм\graph\myform.h(549): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-c:\users\владик\downloads\chm\чм\graph\myform.h(605): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  test.cpp
-  Создание кода...
-  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
   MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
-  Graph.vcxproj -> C:\Users\Владик\Downloads\Chm\ЧМ\Graph\Debug\Graph.exe
+  Graph.vcxproj -> C:\Prog\CHM_lab1\Debug\Graph.exe
